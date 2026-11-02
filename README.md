@@ -1,3 +1,7 @@
+# git-github-practice
+
+Hands-on Git and GitHub Pull Request learning project.
+
 ## API Response Validator
 
 This module validates basic API responses.
